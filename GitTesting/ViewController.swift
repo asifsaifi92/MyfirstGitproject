@@ -14,6 +14,7 @@ class ViewController: UIViewController {
 		super.viewDidLoad()
 		print("asif")
 		print("saifi")
+		print("one more badge")
 		// Do any additional setup after loading the view, typically from a nib.
 	}
 
